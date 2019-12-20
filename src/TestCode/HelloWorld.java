@@ -7,7 +7,7 @@ public class HelloWorld {
 	}
 	
 	public void add(){
-		System.out.println("check what i am add");
+		System.out.println("check what i am add fdafdafdafdaf");
 	}
 	
 	public void delete(){
